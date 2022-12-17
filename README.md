@@ -17,7 +17,6 @@ Alright! So here’s the scenario. You work for a web development firm that acqu
 
 
 ## Email from Client
-  ------------------
 
 Hi!
 
@@ -66,7 +65,6 @@ If all of the 9 items above are addressed and we have some more capacity to work
 Thank you!
 
   -------------
-  -------------
 
 
 You could notice that they are not speaking the “*language*” of what’s been taught as the requests are coming from a non-technical person, which is most often the case. Working in tech, a lot of times you get requests such as “*the clicky thing doesn’t do that slidy thing anymore*.”
@@ -75,9 +73,6 @@ If it’s a large project, you might have a BA (Business Analyst) that interpret
 
   
 ## To complete this assignment:
-
-  -------------
-
 
 1.  Create a technical requirement list from the action item list above. Simply re-write the requests (1-10) in technical terms using the terms learned during the course so it’s a clear list of to-dos using the proper HTML or CSS terminology.
     
