@@ -1,4 +1,4 @@
-**CSS Assignment**
+# **CSS Assignment**
 
   
 
@@ -15,6 +15,8 @@ Hello! In this assignment we will:
 
 Alright! So here’s the scenario. You work for a web development firm that acquired a client that is a small Apt complex. They’ve sent you the email below.
 
+
+## Email from Client
   ------------------
 
 Hi!
@@ -64,6 +66,9 @@ If all of the 9 items above are addressed and we have some more capacity to work
 Thank you!
 
   -------------
+  
+  -------------
+
 
 You could notice that they are not speaking the “*language*” of what’s been taught as the requests are coming from a non-technical person, which is most often the case. Working in tech, a lot of times you get requests such as “*the clicky thing doesn’t do that slidy thing anymore*.”
 
