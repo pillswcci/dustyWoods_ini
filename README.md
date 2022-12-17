@@ -66,7 +66,6 @@ If all of the 9 items above are addressed and we have some more capacity to work
 Thank you!
 
   -------------
-  
   -------------
 
 
@@ -75,10 +74,10 @@ You could notice that they are not speaking the “*language*” of what’s bee
 If it’s a large project, you might have a BA (Business Analyst) that interprets the business language to technical requirements. For smaller projects like this, you’ll have to interpret the request and understand in technical terms what’s being asked.
 
   
+## To complete this assignment:
 
-To complete this assignment:
+  -------------
 
-  
 
 1.  Create a technical requirement list from the action item list above. Simply re-write the requests (1-10) in technical terms using the terms learned during the course so it’s a clear list of to-dos using the proper HTML or CSS terminology.
     
